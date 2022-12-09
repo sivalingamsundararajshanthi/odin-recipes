@@ -1,1 +1,1 @@
-First project in HTML from The Odim Project
+First project in HTML from The Odin Project
